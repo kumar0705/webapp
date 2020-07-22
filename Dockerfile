@@ -1,2 +1,2 @@
-From apache2
+From apache
 ADD . /var/www/html
